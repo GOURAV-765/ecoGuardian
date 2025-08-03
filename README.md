@@ -27,10 +27,11 @@ EcoGuardian is an AI-based Smart Home Energy Management Solution designed to hel
 
 ---
 
-
-
-
 ![Uploading Screenshot 2025-08-03 182251.png…]()
+
+
+
+
 
 
 
